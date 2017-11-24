@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF7FC32C-AA24-49E9-8785-CC798FBBA2B8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TankWar</RootNamespace>
+    <AssemblyName>TankWar</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>F:\電腦網路實習\Publish\client\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>15889A95D33048A69FD88F1379478D82F6EDF4E0</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>TankWar_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bomb.cs" />
+    <Compile Include="Born.cs" />
+    <Compile Include="Bullet.cs" />
+    <Compile Include="Characters.cs" />
+    <Compile Include="Direction.cs" />
+    <Compile Include="eBullet.cs" />
+    <Compile Include="Element.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="enemyScore.cs" />
+    <Compile Include="Equipment.cs" />
+    <Compile Include="MapModule.cs" />
+    <Compile Include="Module.cs" />
+    <Compile Include="GamePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member.cs" />
+    <Compile Include="myBullet.cs" />
+    <Compile Include="p2Bullet.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="playerTank.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Singleton.cs" />
+    <Compile Include="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartForm.Designer.cs">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TankWar_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BigDie1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BigDie2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Little_die1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Little_die2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Little_die3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pink1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pink2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pink3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pink4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ebulet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\born1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\born2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\born3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\born4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grenade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pistol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upgrate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbwhite1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbwhite2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbwhite3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbwhite4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bWhite1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bWhite2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bWhite3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bWhite4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbgreen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbgreen2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbgreen3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbgreen4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgreeben1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgreeben2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgreeben3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgreeben4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbpink1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbpink2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbpink3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbpink4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bpink1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bpink2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bpink3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bpink4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbYellow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbYellow2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbYellow3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bbYellow4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bYellow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bYellow2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bYellow3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bYellow4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brick1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brick2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brick3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medalUnit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unitBrick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\waterUnit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gray12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GameOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gameOver2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\score100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\score200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\score300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\score400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\score500.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Enemy_flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\water60x120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\water120x120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\waterFour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackGround.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\you_lose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\you_win.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

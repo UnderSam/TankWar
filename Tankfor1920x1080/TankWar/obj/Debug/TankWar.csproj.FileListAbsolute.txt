@@ -1,0 +1,98 @@
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\bin\Debug\TankWar.exe.config
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\bin\Debug\TankWar.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\bin\Debug\TankWar.pdb
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Debug\TankWar.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Debug\TankWar.pdb
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Debug\TankWar.MainForm.resources
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\bin\Debug\TankWar.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\bin\Debug\TankWar.application
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Debug\TankWar.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Debug\TankWar.application
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\bin\Debug\TankWar.exe.config
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\obj\Debug\TankWar.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\obj\Debug\TankWar.pdb
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\bin\Debug\TankWar.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\bin\Debug\TankWar.application
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\bin\Debug\TankWar.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\bin\Debug\TankWar.pdb
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\obj\Debug\TankWar.MainForm.resources
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\obj\Debug\TankWar.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\TankWar\obj\Debug\TankWar.application
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe.config
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.exe
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.pdb
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.application
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.pdb
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.MainForm.resources
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.application
+F:\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe.config
+F:\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.exe
+F:\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.pdb
+F:\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe.manifest
+F:\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.application
+F:\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe
+F:\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.pdb
+F:\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+F:\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.MainForm.resources
+F:\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+F:\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.StartForm.resources
+F:\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+F:\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.exe.manifest
+F:\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.application
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe.config
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.exe
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.pdb
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe.manifest
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.application
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.pdb
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.MainForm.resources
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.exe.manifest
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.application
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe.config
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.exe
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.pdb
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe.manifest
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.application
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.exe
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\bin\Debug\TankWar.pdb
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.MainForm.resources
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.exe.manifest
+C:\Users\Sam\Desktop\電腦網路實習\Tank\TankWar\obj\Debug\TankWar.application
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\bin\Debug\TankWar.exe.config
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\bin\Debug\TankWar.exe.manifest
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\bin\Debug\TankWar.application
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\bin\Debug\TankWar.exe
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\bin\Debug\TankWar.pdb
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\obj\Debug\TankWar.MainForm.resources
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\obj\Debug\TankWar.StartForm.resources
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\obj\Debug\TankWar.exe.manifest
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\obj\Debug\TankWar.application
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\obj\Debug\TankWar.exe
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\TankWar\obj\Debug\TankWar.pdb

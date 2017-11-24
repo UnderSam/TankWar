@@ -1,0 +1,53 @@
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\bin\Debug\Server.exe.config
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\bin\Debug\Server.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\bin\Debug\Server.pdb
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\obj\Debug\Server.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\obj\Debug\Server.pdb
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\bin\Debug\Server.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\bin\Debug\Server.application
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\obj\Debug\Server.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\Server\obj\Debug\Server.application
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\bin\Debug\Server.exe.config
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\obj\Debug\Server.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\obj\Debug\Server.pdb
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\bin\Debug\Server.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\bin\Debug\Server.application
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\bin\Debug\Server.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\bin\Debug\Server.pdb
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\obj\Debug\Server.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\tank Project\Tank\Server\obj\Debug\Server.application
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\bin\Debug\Server.exe.config
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\obj\Debug\Server.exe
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\obj\Debug\Server.pdb
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\bin\Debug\Server.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\bin\Debug\Server.application
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\bin\Debug\Server.exe
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\bin\Debug\Server.pdb
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\obj\Debug\Server.exe.manifest
+C:\Users\Sam\Desktop\NTPU\課程\電腦網路實習\Tank\Server\obj\Debug\Server.application
+F:\電腦網路實習\Tank\Server\bin\Debug\Server.exe.config
+F:\電腦網路實習\Tank\Server\obj\Debug\Server.exe
+F:\電腦網路實習\Tank\Server\obj\Debug\Server.pdb
+F:\電腦網路實習\Tank\Server\bin\Debug\Server.exe.manifest
+F:\電腦網路實習\Tank\Server\bin\Debug\Server.application
+F:\電腦網路實習\Tank\Server\bin\Debug\Server.exe
+F:\電腦網路實習\Tank\Server\bin\Debug\Server.pdb
+F:\電腦網路實習\Tank\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\電腦網路實習\Tank\Server\obj\Debug\Server.exe.manifest
+F:\電腦網路實習\Tank\Server\obj\Debug\Server.application
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\Server\bin\Debug\Server.exe.config
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\Server\obj\Debug\Server.exe
+C:\Users\NTPU\Desktop\電腦網路實習\Tank\Server\obj\Debug\Server.pdb
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\bin\Debug\Server.exe.config
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\bin\Debug\Server.exe.manifest
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\bin\Debug\Server.application
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\bin\Debug\Server.exe
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\bin\Debug\Server.pdb
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\obj\Debug\Server.exe.manifest
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\obj\Debug\Server.application
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\obj\Debug\Server.exe
+D:\NTPU\課程\程式語言\C#\tank Project\Tankfor1920x1080\Server\obj\Debug\Server.pdb

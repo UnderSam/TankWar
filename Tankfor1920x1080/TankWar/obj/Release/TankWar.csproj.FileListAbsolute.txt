@@ -1,0 +1,10 @@
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\bin\Release\TankWar.exe.config
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\bin\Release\TankWar.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\bin\Release\TankWar.pdb
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Release\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Release\TankWar.MainForm.resources
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Release\TankWar.Properties.Resources.resources
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Release\TankWar.StartForm.resources
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Release\TankWar.csproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Release\TankWar.exe
+C:\Users\Sam\Desktop\NTPU\課程\程式語言\C#\Project\Tank\TankWar\obj\Release\TankWar.pdb
