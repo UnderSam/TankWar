@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TankWar.exe" size="1057696">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TankWar.exe" size="1056768">
       <assemblyIdentity name="TankWar" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>EhUUO+VclJW1+m21TfsYe8lIZ97MkIcoonggafL/H4c=</dsig:DigestValue>
+        <dsig:DigestValue>rPYCTOwvyvuSry7YDNRJPnxOfDq4U4GPxIfRRXqaSjU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
